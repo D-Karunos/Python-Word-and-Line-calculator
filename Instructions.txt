@@ -1,0 +1,12 @@
+Task was done for technical interview
+
+Steps to run python code.
+
+1. In order to run python program you need to have python interpter.
+You can download it here: https://www.python.org/downloads/
+
+2. After downloading and installing python interpreter right click on task.py and open it with "python3.9" (or any other python 3 version is accepted)
+
+3. When program is open you will need to input file path to your text file (C:\users\...)
+
+4. Enjoy!
